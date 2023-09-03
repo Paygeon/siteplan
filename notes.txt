@@ -1,0 +1,203 @@
+Services
+
+Detailed breakdown of Paygeon's key features
+
+Explanation of how each feature benefits users
+
+Visual representations or screenshots
+
+Links to relevant case studies or success stories
+
+--
+
+Pricing
+
+Clear pricing tiers and subscription options
+
+Explanation of what each plan includes
+
+Comparison chart for different plans
+
+Free trial or demo options
+
+--
+
+Privacy Policy
+
+Privacy Policy
+
+Effective September 1, 2023
+
+Paygeon knows the importance of and values the privacy of all its customers. We agree that how your personal information is collected, used, and shared is important and we take this responsibility seriously. Our primary goal is to provide you with exceptional service, and we understand that you may have questions or concerns regarding your personal information and how it will be used. This document describes how Paygeon collects, transmits, stores, uses, shares, and erases personal information.
+
+If you are a resident of California, Colorado, Connecticut, Virginia, or Utah, you may have additional rights. To learn more, review our US State Supplemental Privacy Notice to Residents of California, Colorado, Connecticut, Virginia, and Utah. In addition, if you are a resident of California, you are entitled to certain notices and disclosures regarding our collection and use of your personal information at or before the time of collection. The disclosures required by a California Notice at Collection are available for review via the above-referenced link.
+
+Applicability of Privacy Policy
+
+This privacy policy applies to all information PaygeonPay, LLC (along with its affiliates, successors, and assigns, ?Paygeon?, ?we?, ?us?) collects through our web and mobile applications from Paygeon users, including you. This Privacy Policy, or its future variations, will continue to apply if your use of our Services is discontinued by either you or Paygeon. This policy only applies to the Paygeon Service(s) and does not apply to the practices of any other partner or third-party provider.
+
+In this policy, the term ?personal information? is used to describe information that can be associated with, and can be used to identify, an individual. We do not consider personal information to include:
+
+·Information that has been anonymized so that it does not identify a specific user.
+
+·Publicly available information from government records, de-identified or aggregated consumer information.
+
+·Information excluded from the CCPA?s scope.
+
+The Information We Collect
+
+The Paygeon products you use and how you use them dictates which information is collected. Paygeon collects personal information when you use our products and services, including when you: browse paygeon.io or use app.Paygeon.co, apply for a charge card, create a Paygeon account, use our iOS or Android mobile apps, make a purchase using your physical or virtual Paygeon card, communicate with us (e.g. calling, chatting, or interact with us, including Customer Experience or Sales interactions), and interact with us at a conference or event.
+
+Information to apply for a line of credit and create a Paygeon Account
+
+If you apply for a Paygeon account, we need to collect and process a certain amount of information about you, your business, and individuals associated with your business to comply with our legal and regulatory obligations and to address our fraud risks.
+
+Identification Information, including name, email address, telephone number, home street address, social security number or passport number, date of birth, business name, business address, business industry, business tax ID, and business revenue.
+
+Banking Information, including your bank name, account holder name, account number, routing number, and bank address.
+
+Device and Connection Information, including your IP address, geolocation data, browser type and version, operating system and other software installed on your device, unique device identifier and other technical identifiers, performance data, error reports.
+
+Usage Data, including features you used, settings you selected, your URL clickstream data (including date and time stamp and referring and exit pages), and pages you visited on the Service.
+
+Information to use our products and services
+
+Personal information is required to be collected and processed when your business assigns a credit card to you. To use this service, we will collect identification information, including your name, email address, and phone number.
+
+Information when you make a transaction
+
+When a payment is made by you on the Paygeon platform, we collect information about your transaction, including payment method information, purchase amount, purchase date, purchase location, receipt information, information provided to us by the card network associated with transactions, merchants, or cardholders. The transaction information is received: (i) directly from you; (ii) from the issuing bank; and/or (iii) from the card networks.
+
+Information automatically processed when you visit our websites or use our mobile app
+
+In order to facilitate the best financial and security experience for you and us, personal information is automatically collected when you visit or use our website and/or mobile app, including browser and device information, device and connection information, IP address, geolocation data, browser type and version, operating system and other software installed on your device, unique device identifier and other technical identifiers, performance data, error reports, and usage data (such as features you used, settings you selected, URL clickstream data (including date and time stamp and referring and exit pages), and pages you visited on the Service).
+
+Cookies and trackers
+
+We and our service providers use cookies and other activity tracking tools to:
+
+·Provide you services such as those that allow you to chat with our Customer Success team
+
+·Perform website analytics
+
+·Prevent fraud and prevent attacks against our websites and services
+
+·Assign you a unique identifier so we can record: (i) websites you visit; (ii) length of time the advertisement was visible; and (iii) IP address.
+
+You have the option to block cookies and other activity tracking tools used by us; however, in doing so, you may limit the functionality and use of certain features of our services. To block cookies, you can disable them through your web browser or visit an industry-standard opt-out website like www.networkadvertising.org/choices or www.aboutads.info/choices.
+
+Information processed when you interact with Paygeon
+
+Personal information may be collected about you when you interact with our customer-facing teams (e.g., Customer Success, Growth, Sales, or Marketing) through phone calls, chat services, or email, including your name, your email, phone number, and other contact information, and content of your communications and survey responses.
+
+How We Use the Information We Collect
+
+Paygeon may use or disclose the information we collect for one or more of the following business purposes:
+
+·To customize, personalize, measure, and improve our services and the content and layout of our website. Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, fun, and customized experience.
+
+·To provide the services. For example, if you share your name and contact information to apply for or request a product or service, we will use that personal information to facilitate your application or respond to your request.
+
+·To provide the customer support you request. For example, if you share your name and contact information to ask a question, we will use that personal information to respond to your inquiry.
+
+·To process transactions and send notices about transactions. For example, if you share your name and contact information to conduct a transaction, we will use that personal information to assist in properly performing your transaction and to notify you about the transaction after its completion.
+
+·To send notices about your network activity. For example, by sharing your name and contact information, we will use that personal information to notify you about your account activity from time to time.
+
+·To respond to your requests for assistance, including to investigate and address your concerns including possible fraud, and to monitor and improve our responses.
+
+·To enforce our user agreement. For example, by sharing your name and contact information, we will use that personal information to notify you in the event of any prohibited or illegal activity concerning your account.
+
+·To respond to law enforcement requests and as required by applicable law, court order, or governmental regulation.
+
+·To compare information for accuracy and verify it with third parties.
+
+·To send you information and updates about new products and services that we are offering to customers.
+
+·As described to you when collecting your personal information.
+
+·Perform other duties as otherwise required by law including the CCPA.
+
+We will not collect additional categories of personal information or use the personal information we collected for materially different, unrelated, or incompatible purposes without providing you notice.
+
+How We Share the Information We Collect
+
+Paygeon shares your personal information with our third-party service providers and business partners as needed to provide, maintain, support, secure, and improve the Service. Except as described below, when Paygeon shares personal information for a business purpose, Paygeon enters into a contract that describes the purpose for which the information is shared and requires the recipient to both keep that personal information confidential and not use it for any purpose except for performing the contracted services.
+
+Sharing within the Paygeon network
+
+To process payments on Paygeon, we need to share some of your personal information with the person or company that you are paying or is paying you. Your contact information, date of sign-up, the number of payments you have received and other verification metrics like social graph activity may be provided to users or companies when you transact with, on, or through Paygeon.
+
+We work with vendors to enable them to accept payments from you using Paygeon. In doing so, a vendor may share information about you with us, such as your mobile phone number or Paygeon username, when you attempt to pay that vendor. We use this information to confirm with that vendor that you are a Paygeon customer and that the vendor should enable Paygeon as a form of payment for your purchase.
+
+Regardless, we will not disclose your credit card number or bank account number to anyone you have paid or who has paid you through Paygeon, except with your express permission or if we are required to do so to comply with a subpoena or other legal process.
+
+Sharing within the Paygeon corporate family
+
+We may share your information within our corporate family, including, but not limited to Bill.io, LLC; Bill.io, Canada LLC; PaygeonPay, LLC; zipbooks.io and any affiliates or subsidiaries of these companies or our parent company, BILL Holdings, Inc. (collectively, ?Bill.io Group Companies?) for the purposes identified in this Privacy Notice. As we grow and expand our Services and offer our Services in other countries, we may add to our corporate family.
+
+Sharing in connection with business transactions or corporate changes
+
+The information that we collect in connection with the Service is a business asset. As a result, we may share or transfer your information if we or any of the Bill.io Group Companies enter bankruptcy or are party to a business transaction, such as a merger, acquisition, reorganization, or asset sale.
+
+Sharing personal information with other parties
+
+Paygeon does not share your personal information with third parties for promotional or marketing purposes.
+
+We may share your personal information with:
+
+·Law enforcement, government officials, or other third parties if compelled to do so by a subpoena, court order or similar legal procedure, when it is necessary to do so to comply with law, or where the disclosure of personal information is reasonably necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of the Paygeon Terms and Conditions of Use, or as otherwise required by law.
+
+·Third-party service providers who assist us in providing Services to you or who provide fraud detection or similar services on our behalf.
+
+·Third party service providers who provide any application or sign up process for Paygeon?s bill pay service, or to facilitate opening or managing or access to another Paygeon branded product or service;
+
+·Third party service providers who facilitate transactions and services that you request. For example, with regard to Paygeon?s bill pay service, Paygeon shares your personal information with Pathward, Inc. for any lawful purpose of Paygeon and Pathward, Inc., including:
+
+·Sharing your information relating to the service, including any application or sign up process for the service, to facilitate opening or managing another Paygeon branded product;
+
+·Sharing your information relating to another Paygeon branded product, including the application or sign up process for such product, to facilitate your access to the service under this agreement or managing the service;
+
+·Sharing information regarding you in connection with the service, the software that permits access to the service, and/or other Paygeon branded products to detect, prevent, or investigate fraud or illegal conduct and to manage other risks;
+
+·Sharing information to facilitate transactions and services that you request; and
+
+·Responding to governmental inquiries and legal processes.
+
+·Third party service providers who assist with governmental inquiries and legal processes.
+
+·Service providers under contract who help with parts of our business operations (for example, fraud or illegal conduct detection, prevention and investigation, the management of other risks, as well as payment processing, or technology services). Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit.
+
+·Other third parties, such as accounting software providers, with your consent or at your direction to do so.
+
+Information From Person(s) Under the Age of 18
+
+We do not knowingly solicit or collect information from any individuals under the age of 18. If we learn that we have collected personal information from a child under age 18, we will delete that information as quickly as possible.
+
+How We Protect and Store Information
+
+We store and process your personal information using third-party servers located in secure data centers in the United States. The information is protected by physical, electronic, and procedural safeguards in compliance with applicable US federal and state regulations. We employ electronic safeguards such as firewalls and data encryption. We enforce physical access controls to our office and files. We authorize access to personal information only for those employees who require it to fulfill their job responsibilities.
+
+We make reasonable efforts to ensure security on our systems. Despite our efforts, we cannot guarantee that personal information may not be accessed, disclosed, altered, or destroyed by breach of our administrative, managerial, and technical safeguards. Therefore, we urge you to take adequate precautions to protect your personal data as well, including never sharing your Paygeon password with anyone.
+
+If Paygeon learns of a systems security breach, we may attempt to notify you electronically so that you can take appropriate protective steps. Paygeon may post a notice on the website if a security breach occurs. We may also send an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
+
+Links to other sites
+
+The website application and mobile application may contain links to other sites. Paygeon does not control the information collection of sites that can be reached through links from our products. We encourage our users to be aware when they are leaving the applications and to read the privacy statements of any site that collects personally identifiable information.
+
+Multi-factor authentication communications
+
+Paygeon will send one (1) text message per login to users as part of multi-factor (?MFA?) and the login process. You understand that at any time you can opt out to stop receiving one-time passcodes via text message. If you wish to stop receiving text messages for MFA, simply type STOP. In texting STOP, you understand that you will no longer receive transactional messages containing one-time passcodes, which may affect your ability to log in to your Paygeon account. Your opt out will only be effective for the mobile device from which you sent the STOP request and will not cover emails or other communications sent by Paygeon. For questions or assistance concerning opting back in to MFA text messages, contact support at help@paygeon.io or by calling 818-698-6756.
+
+Standard messaging and data rates may apply. Carriers are not liable for delayed or undelivered messages. Not all phone carriers or text message providers may support this service.
+
+Changes to our Privacy Policy
+
+Paygeon is always improving. As the Paygeon service evolves, we may occasionally update this Privacy Policy. If we modify this Privacy Policy, we will post the revised Privacy Policy to the website, and we will also revise the ?last updated date? stated above. If we make material changes in the way we use personal information, we will notify you by posting an announcement on our service or by sending you an email. It is your responsibility to periodically review this Privacy Policy; users are bound by any changes to the Privacy Policy by using the service after such changes have been first posted.
+
+Contact Information
+
+If you have any questions or comments about this information, the ways in which we collect and use your personal information, your choices and rights regarding such use, or wish to exercise your rights under California law, you may contact us at privacy@Paygeon.io or 818-698-6756.
+
+US State Supplemental Privacy Notice to Residents of California, Colorado, Connecticut, Virginia, and Utah
